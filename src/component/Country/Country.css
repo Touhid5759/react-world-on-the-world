@@ -1,0 +1,28 @@
+.country{
+    border: 2px solid orangered;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.country-visit{
+    background-color: green;
+}
+.view-btn {
+    background-color: #007bff;
+    color: white;
+    padding: 6px 12px;
+    border: none;
+    border-radius: 6px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.view-btn:hover {
+    background-color: #0056b3;
+}
+.country-info {
+    margin-top: 12px;
+    text-align: left;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    padding: 10px;
+}
